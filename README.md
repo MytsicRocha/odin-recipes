@@ -1,1 +1,2 @@
 # odin-recipes
+El proyecto actual se basa en hacer una sitio web de recetas con html(Hipertext Markup Language), al finalizar este proyecto voy aver desmostrado que se hacer la estructura o base de un sitio web.

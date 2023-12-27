@@ -1,0 +1,28 @@
+*{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+body{
+    color: #33475b;
+}
+
+.titulo{
+    color: white;
+    background-color: #7FB685;
+    text-align: center;
+}
+
+.titulo2{
+    color: white;
+    background-color: #7FB685;
+}
+
+#lista{
+    color: white;
+}
+
+.l1,
+.l2,
+.l3{
+    color: black;
+}

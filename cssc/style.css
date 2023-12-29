@@ -23,17 +23,18 @@ body{
     color: black;
 }
 
+div{
+    display: flex;
+    flex: 1;
+}
+
 #lista{
-    display: inline-block;
-    padding: 50px;
-    position: relative;
-    bottom: 170px;
-    
+    margin-top: 150px;
 }
 
 .l1,
 .l2,
 .l3{
     color: black;
-    font-size: medium;
+    font-size: large;
 }
